@@ -1,0 +1,8 @@
+login
+verify
+bank
+update
+secure
+account
+paypal
+signin
